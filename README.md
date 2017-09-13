@@ -1,6 +1,5 @@
 # NFL Counter - Score Keeper App
 
-Udacity's Android Developer Nanodegree program exercise #4 Part 2
 
 ## Purpose
 
